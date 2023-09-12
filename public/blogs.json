@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "author": "John Doe",
+    "cover": "https://i.ibb.co/YtgMJwp/aerial-view-doctor-stethoscope-computer-laptop.jpg",
+    "title": "Lorem Ipsum",
+    "img": "https://example.com/img1.jpg",
+    "posted_date": "2023-09-12",
+    "reading_time": "10 mins",
+    "hashtag": [
+      "Lorem",
+      "Ipsum",
+      "Dolor"
+    ]
+  },
+  {
+    "id": 2,
+    "author": "Jane Smith",
+    "cover": "https://i.ibb.co/txBW5r6/modern-office-desk-composition.jpg",
+    "img": "https://example.com/img2.jpg",
+    "posted_date": "2023-09-11",
+    "reading_time": "8 mins",
+    "hashtag": [
+      "Sample",
+      "Article",
+      "Example"
+    ]
+  },
+  {
+    "id": 3,
+    "author": "Alice Johnson",
+    "cover": "https://i.ibb.co/YtgMJwp/aerial-view-doctor-stethoscope-computer-laptop.jpg",
+    "title": "Tech Trends",
+    "img": "https://example.com/img3.jpg",
+    "posted_date": "2023-09-10",
+    "reading_time": "12 mins",
+    "hashtag": [
+      "Tech",
+      "Trends",
+      "Innovation"
+    ]
+  },
+  {
+    "id": 4,
+    "author": "Bob Wilson",
+    "cover": "https://i.ibb.co/NNjh2rk/top-view-laptop-glasses-with-copy-space.jpg",
+    "title": "Foodie's Delight",
+    "img": "https://example.com/img4.jpg",
+    "posted_date": "2023-09-09",
+    "reading_time": "15 mins",
+    "hashtag": [
+      "Food",
+      "Cuisine",
+      "Delicious"
+    ]
+  },
+  {
+    "id": 5,
+    "author": "Eva Brown",
+    "cover": "https://i.ibb.co/RD5L7Gb/collage-with-mountains-city.jpg",
+    "title": "Travel Adventures",
+    "img": "https://example.com/img5.jpg",
+    "posted_date": "2023-09-08",
+    "reading_time": "20 mins",
+    "hashtag": [
+      "Travel",
+      "Adventure",
+      "Explore"
+    ]
+  }
+]
