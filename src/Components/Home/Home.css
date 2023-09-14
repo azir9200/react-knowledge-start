@@ -23,5 +23,10 @@
 
 .home-container {
   display: flex;
+}
 
+.card-container {
+  width: 600px;
+  display: flex;
+  flex-wrap: wrap;
 }
