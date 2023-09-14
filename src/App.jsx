@@ -1,21 +1,21 @@
 
 import './App.css'
-import Blogs from './Components/Blogs/Blogs'
-import Bookmarks from './Components/Bookmarks/Bookmarks'
+import Cart from './Components/Cart/Cart'
 import Header from './Components/Header/Header'
-import Blog from './Components/Blog/blog'
+import Home from './Components/Home/Home'
+
 function App() {
 
 
 
   return (
     <>
+
+
       <Header></Header>
       <div className='md:flex max-w-7xl mx-auto '>
-        <Blogs></Blogs>
-        <Bookmarks></Bookmarks>
-        <Blog></Blog>
-
+        <Cart></Cart>
+        <Home></Home>
       </div>
     </>
   )
